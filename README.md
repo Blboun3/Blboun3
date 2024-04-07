@@ -14,7 +14,7 @@ I like computers, programming and music.<br>I am often working on some discord b
 ## Workspace:
 ![Ryzen 9 5900X](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![RTX3070Ti](https://img.shields.io/badge/NVIDIA-RTX3070Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-[![Arch linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![NixOS](https://img.shields.io/badge/NixOS-1793D1?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
 [![VS Code IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
